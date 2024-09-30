@@ -48,6 +48,8 @@ and I'm a Software Engineer/Architect | Full Stack | Cross Platform. [<img align
 ### Latest YouTube Videos:
 
 <!-- YOUTUBE:START -->
+- [Flutter | Como funcionam os Inherited Widget [ PT-BR ]](https://www.youtube.com/watch?v=lQPh5zqMkWA&t=208s)
+- [Flutter POCs | Discutindo Navegação Aninhada](https://www.youtube.com/watch?v=hOx-034uk3M)
 - [Flutter Challenge #9 - Boat Booking Service App](https://www.youtube.com/watch?v=n9ds-cum2io)
 - [Flutter Challenge #8 - Super Car Website](https://www.youtube.com/watch?v=0sXkDJoJCJE&t=89s)
 - [Flutter Challenge #7 - Pass Ticket App](https://www.youtube.com/watch?v=UXw6cv9uaNk)
