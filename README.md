@@ -5,9 +5,10 @@
 <p align="center">Full Stack Developer | Mobile Development Expert (Flutter) | Backend and Frontend Enthusiast. I love exploring new technologies and sharing knowledge through my <a href="https://www.youtube.com/channel/UC8UvYtP9aJqdI-FGWctCliQ">YouTube channel</a>.</p>
 
 ## 🌟 Professional Experience
-- **Mobile Engineer & Architect**: 7+ years of experience building high-performance apps for Android, iOS, web, and desktop using **Flutter**, **Vue.js**, and **Golang**.
-- Specialized in **Clean Architecture**, **SOLID Principles**, **Design Patterns**, and **Modularization** to create scalable, maintainable, and modular codebases.
-- Regular speaker on topics like **TDD**, **Refactoring**, and **No Coupling**.
+- Mobile Engineer & Architect: Over 8 years crafting high-performance applications for Android, iOS, and Web using cutting-edge technologies like Flutter, Vue.js, and beyond.
+- Passionate about building scalable and maintainable codebases, specializing in Clean Architecture, SOLID principles, Design Patterns, and Modularization.
+- Adept at TDD, BDD, and DDD, ensuring software quality and delivering robust solutions.
+- Frequent speaker and mentor, sharing insights on architecture, testing strategies, and development practices to empower teams and the community.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
