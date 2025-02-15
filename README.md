@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kevin Kobori</h1>
 
-<h2 align="center">Brazilian Software Engineer & Architect with a passion for building cross-platform solutions, currently living as a digital nomad.</h2>
+<h2 align="center"> Senior Software Engineer & Architect with a passion for building cross-platform solutions</h2>
 
-<p align="center">Full Stack Developer | Mobile Development Expert (Flutter) | Backend and Frontend Enthusiast. I love exploring new technologies and sharing knowledge through my <a href="https://www.youtube.com/channel/UC8UvYtP9aJqdI-FGWctCliQ">YouTube channel</a>.</p>
+<p align="center"> Senior Software Engineer | Clean Architecture Expert | Flutter Specialist. I love exploring new technologies and sharing knowledge through my <a href="https://www.youtube.com/channel/UC8UvYtP9aJqdI-FGWctCliQ">YouTube channel</a>.</p>
 
 ## 🌟 Professional Experience
 - Mobile Engineer & Architect: Over 5 years crafting high-performance applications for Android, iOS, and Web using cutting-edge technologies like Flutter, Vue.js, and beyond.
