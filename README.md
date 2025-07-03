@@ -5,12 +5,11 @@
 <p align="center"> Senior Software Engineer | Clean Architecture Expert | Flutter Specialist. I love exploring new technologies and sharing knowledge through my <a href="https://www.youtube.com/channel/UC8UvYtP9aJqdI-FGWctCliQ">YouTube channel</a>.</p>
 
 ## 🌟 Professional Experience
-- Mobile Engineer & Architect: Over 5 years crafting high-performance applications for Android, iOS, and Web using cutting-edge technologies like Flutter, Vue.js, and beyond.
-- Passionate about building scalable and maintainable codebases, specializing in Clean Architecture, SOLID principles, Design Patterns, and Modularization.
-- Adept at DDD, BDD, and TDD, ensuring software quality and delivering robust solutions.
-- Frequent speaker and mentor, sharing insights on architecture, testing strategies, and development practices to empower teams and the community.
+• Software Engineer with over 5 years of experience in cross-platform application architecture (iOS, Android, Web), with a strong focus on intuitive interfaces, complex system integration, and scalability. Solid background in agile methodologies (Scrum, Kanban) and excellence in software quality, applying Clean Architecture, SOLID, DDD, TDD, BDD, and CI/CD. Proven track record in fintech, insurtech, IoT, and startups, specializing in the design and delivery of robust solutions aligned with industry best practices.
 
-<h3 align="left">Languages and Tools:</h3>
+• Led strategic projects, including the development of the largest smart home application in Latin America (Positivo), AI-powered auto insurance solutions (Banco BV), IoT telemedicine platforms (CMOS DRAKE), cashback fintech innovations, and blockchain applications.
+
+<h3 align="left">Main Tools:</h3>
 <p align="left">
   <a href="https://flutter.dev" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40" />
@@ -37,9 +36,9 @@
 
 <h3 align="left">Operating systems:</h3>
 
+![macOS](https://img.shields.io/badge/macOS-000?style=for-the-badge&logo=apple&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
-![macOS](https://img.shields.io/badge/macOS-000?style=for-the-badge&logo=apple&logoColor=white)
 
 <!--
 <h3 align="left">GitHub Stats:</h3>
@@ -53,5 +52,4 @@
 ## 🔗 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-60116A?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/kevin-kobori-646701197/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kevinkobori)
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=fff)](https://www.youtube.com/channel/UC8UvYtP9aJqdI-FGWctCliQ)
